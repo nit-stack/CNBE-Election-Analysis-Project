@@ -87,9 +87,9 @@ This project is developed for CNBE, a leading news channel, to analyze recent el
 - **Bagging:**
   - Random Forest Score: 0.8245
  
-    Confusion Matrix for Random Forest
+  Confusion Matrix for Random Forest
 
-    ![image](https://github.com/user-attachments/assets/7094731c-ac9e-48d0-ae52-51d70147efcf)
+  ![image](https://github.com/user-attachments/assets/7094731c-ac9e-48d0-ae52-51d70147efcf)
 
 - **Boosting:**
   - Adaboost Score: 0.8201
